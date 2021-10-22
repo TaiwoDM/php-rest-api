@@ -3,7 +3,7 @@
     
     // Database Parameters
     private $host = 'localhost';
-    private $db_name = 'restblog';
+    private $dbname = 'myblog';
     private $username = 'root';
     private $password = '';
     private $conn;
